@@ -1,0 +1,214 @@
+# Gaea 2 中文词条表
+# 直接编辑本文件，重启 Gaea 即生效，无需重新编译。
+# 格式: English=中文   （# 开头为注释）
+# 访问键写作 文本(_X) —— 保留拉丁字母，否则 Alt+字母 快捷键会失效
+# 只改界面显示文字：节点逻辑与 .terrain 工程文件不受影响
+
+# ========== 顶部导航栏 ==========
+_File=文件(_F)
+_Edit=编辑(_E)
+_Graph=图形(_G)
+_Node=节点(_N)
+P_review=预览(_R)
+_Project=工程(_P)
+_Tools=工具(_T)
+_Help=帮助(_H)
+
+# ========== 文件 ==========
+_New=新建(_N)
+_Open...=打开…(_O)
+Open _Recent=打开最近(_R)
+Recent Files=最近的文件
+Open Autosave...=打开自动保存…
+Open Examples...=打开示例…
+Start Dialog=开始界面
+_Save...=保存…(_S)
+Save _as...=另存为…(_A)
+Save in_cremental=增量保存(_C)
+_Repair File...=修复文件…(_R)
+_Import=导入(_I)
+_Macro...=宏…(_M)
+_Graph...=图形…(_G)
+_TORLET...=TORLET…(_T)
+I_mage...=图像…(_M)
+_Export=导出(_E)
+TOR_LET...=TORLET…(_L)
+S_hare...=分享…(_H)
+E_xit=退出(_X)
+
+# ========== 编辑 ==========
+_Undo=撤销(_U)
+_Redo=重做(_R)
+Cu_t=剪切(_T)
+_Copy=复制(_C)
+_Paste=粘贴(_P)
+C_opy Properties=复制属性(_O)
+P_aste Properties=粘贴属性(_A)
+_Rename=重命名(_R)
+Duplicat_e=创建副本(_E)
+_Delete=删除(_D)
+
+# ========== 图形 ==========
+New Graph Tab=新建图形标签
+Add Note=添加注释
+Zoom=缩放
+Extents=范围
+Reset Zoom=重置缩放
+Selection=选中项
+Graph Surface=图形面板
+Show Grid=显示网格
+Snap to Grid=对齐到网格
+Snap to Items=对齐到元素
+Bake=烘焙
+Bake Selected=烘焙选中项
+Bake Required Nodes=烘焙所需节点
+Force load baked cache=强制重新加载烘焙缓存
+Unbake Selected=取消烘焙选中项
+Unbake All=取消全部烘焙
+Resolution=分辨率
+Cache to Disk=缓存到磁盘
+When closing file=关闭文件时
+When Idle=空闲时
+Delete Cache=删除缓存
+Bookmarks=书签
+Add bookmark=添加书签
+
+# ========== 节点 ==========
+_Refresh=刷新(_R)
+_Bypass=绕过(_B)
+_Lock Preview to Node=预览锁定到节点(_L)
+Mark for _Export=标记为导出(_E)
+Re_set=重置(_S)
+Mutate=变异
+Locked 2D _Viewport=锁定 2D 视口(_V)
+Select _Upsteam=选择上游(_U)
+Select Do_wnstream=选择下游(_W)
+Group / Ungroup=编组 / 取消编组
+Combine nodes=合并节点
+Combine as Inputs=合并为输入
+Mixer as Color Layers=混合器作为颜色图层
+Layers as Normal Layers=图层作为普通图层
+Convert port to portals=端口转为门户
+Move to Tab=移动到标签
+Prese_ts=预设(_T)
+
+# ========== 预览 ==========
+Regions=区域
+_Engine Active=引擎活动(_E)
+_Clean Memory=清理内存(_C)
+Clear C_ache=清除缓存(_A)
+_Rebuild All=重建全部(_R)
+Screenshot=截图
+Save Screenshot=保存截图
+Screenshot Options=截图选项
+Save Graph Screenshot as...=图形截图另存为…
+Save Viewport Screenshot as...=视口截图另存为…
+Open Screenshots Folder=打开截图文件夹
+Transparent=透明
+Record Turntable Animation=录制转盘动画
+
+# ========== 工程 ==========
+_Build and Export...=构建并导出…(_B)
+_Execute Batch Build...=执行批量构建…(_E)
+_Execute Network Build...=执行网络构建…(_N)
+Build Settings...=构建设置…
+Build _Stack=构建堆栈(_S)
+_Open Build Folder=打开构建文件夹(_O)
+_Reports=报告(_R)
+S_tatistics=统计(_T)
+
+# ========== 工具 ==========
+Interface Scale (120%)=界面缩放 (120%)
+Install Plugins=安装插件
+_Run Diagnostics...=运行诊断…(_R)
+_Artifact Explorer...=产物浏览器…(_A)
+_Console=控制台(_C)
+Verbose Logging=详细日志
+_Options...=选项…(_O)
+
+# ========== 帮助 ==========
+_User Guide=用户指南(_U)
+_Node Reference=节点参考(_N)
+_Shortcut Reference=快捷键参考(_S)
+_What's new in this version?=此版本新增内容？(_W)
+_Check for updates=检查更新(_C)
+_Manage License...=管理许可…(_M)
+_Diagnostics...=诊断…(_D)
+_About Gaea=关于 Gaea(_A)
+
+# ========== 界面其他部分 ==========
+Terrain=地形
+Build=构建
+Stats=统计
+Vars=变量
+Idle=空闲
+Update=更新
+New Project=新建工程
+Open Project=打开工程
+Search files...=搜索文件…
+Update Available=有可用更新
+What's New=更新日志
+Activate=激活
+Presets=预设
+Refresh=刷新
+Undo=撤销
+Save=保存
+Guide=参考
+Macro=宏
+Primitive=基础
+Modify=修改
+Add Input=添加输入
+Add layer=添加图层
+Layers=图层
+Preserve Masks=保留遮罩
+Show Simplified=简化显示
+In=输入
+Out=输出
+
+# ========== 右键菜单（2026-10-01 补）==========
+# 主菜单栏用的是带访问键下划线的写法（_Rename / Duplicat_e / C_opy Properties），
+# 而**节点右键菜单**用的是同一个词但不带下划线（Rename / Duplicate / Copy Properties）。
+# 两套写法都得收 —— 只收带下划线那套的话，右键菜单会整片保持英文。
+# 这里收的是「不带访问键」的那一套。
+#
+# —— 节点右键菜单 ——
+# （Refresh / Reset 两条已有译文，见本文件「界面其他部分」与 06_options.txt）
+Rename=重命名
+Duplicate=创建副本
+Bypass=绕过
+Bookmark=书签
+Lock Preview=锁定预览
+Use as Underlay=用作底层
+Exclude from Underlay=从底层排除
+Mark for Export=标记为导出
+Replace=替换
+Insert chokepoint=插入汇聚点
+Manage Portals=管理门户
+Delete=删除
+Copy Properties=复制属性
+Paste Properties=粘贴属性
+Show Locked 2D Viewport=显示锁定的 2D 视口
+#
+# —— 工具箱面板右键菜单 ——
+# （Style / Menu / Options 三条已有译文，不重复收）
+Panel=面板
+Expand All=全部展开
+Collapse All=全部折叠
+Compact Mode=紧凑模式
+Categorized=分类显示
+Align Left=左对齐
+High Use Items=常用项
+Pin To Top=置顶
+Highlight=高亮
+
+# ========== 补漏（2026-10-01，DEV 模式采集 + UIA 定位）==========
+Increase Zoom=放大
+Decrease Zoom=缩小
+Node Scale=节点缩放
+Combine into=合并为
+Change Log=变更日志
+_Close=关闭(_C)
+Simple=简单
+Complex=复杂
+Secondary Fractal=次级分形
+Self Modulation=自调制

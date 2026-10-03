@@ -1,0 +1,13 @@
+# Gaea 2 原生对话框词条
+#
+# 保存提示、构建提示这类系统对话框里的文字。
+#
+# 原文清单是长期积累出来的：把实际遇到过的对话框原文逐条记下来，
+# 攒够一批就补进这里。
+
+# ---- 构建设置 ----
+Subdivision is set to None=细分设置为「无」
+Subdivision is set to none in build settings. For Network Build to work, Subdivision should be set to either Faster, Better or Slower.=构建设置中的细分被设为「无」。网络构建需要把细分设为「更快」「更好」或「更慢」之一。
+Faster=更快
+Better=更好
+Slower=更慢

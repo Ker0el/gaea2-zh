@@ -1,0 +1,57 @@
+# Gaea 2 选项窗口词条
+# 覆盖选项窗口各页的标签与说明文字
+
+# ---- 选项页签 ----
+General=常规
+Paths=路径
+Toolbox=工具箱
+Graph=图形
+Node=节点
+Data View=数据视图
+Build=构建
+Network Builds=网络构建
+Cache=缓存
+Compute=计算
+Viewport=视口
+Navigation=导航
+Experimental=实验性
+
+# ---- 按钮 / 通用 ----
+_Accept Changes=接受更改(_A)
+_Cancel=取消(_C)
+Reset this page=重置本页
+Factory Reset=恢复出厂设置
+Open Data Folder=打开数据文件夹
+Run Diagnostics=运行诊断
+Apply=应用
+Reset=重置
+Close=关闭
+Open=打开
+Browse...=浏览…
+Default=默认
+Custom=自定义
+None=无
+Auto=自动
+Manual=手动
+Options=选项
+
+# ---- 各页内容 ----
+Lazy Menu=惰性菜单
+Local License Server=本地许可服务器
+Check for updates on startup=启动时检查更新
+Enable Verbose Logging (Restart Gaea to take effect)=启用详细日志（重启 Gaea 后生效）
+Use Web Proxy=使用网络代理
+Use sparingly. It will create larger logs.=请谨慎使用，日志会变得很大。
+Report anonymous usage statistics=匿名上报使用统计
+Report crash reports anonymously=匿名上报崩溃报告
+Show Expert Tools=显示专家工具
+Show warning for orphan variables=存在孤立变量时显示警告
+Start Gaea on=启动 Gaea 时
+Move cursor to target when using the Lazy Menu=使用惰性菜单时把鼠标指针移到目标项
+
+# ---- 显示器 ----
+Monitor 0 (Primary)=显示器 0（主显示器）
+Monitor 1=显示器 1
+Monitor 2=显示器 2
+Monitor 3=显示器 3
+Whole Terrain=整块地形
